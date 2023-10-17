@@ -1,0 +1,171 @@
+Year,Extraversion,Number of texts,Handedness,Sleep position,Hours of sleep,Number of siblings,Pets,Random number,Tattoos,Commute by
+First,4.0,8.0,Right,Left side,8.0,1,"dog, cat",4267,No,walk
+First,4.0,8.0,Right,Left side,8.0,1,"dog, cat",4267,No,walk
+First,5.0,45.0,Right,Left side,8.0,2,"1 dog, 1 horse ",3864,No,Bike
+Second,8.0,40.0,Right,Right side,8.0,2,"dog, dog",4832,No,Bike
+Second,8.0,60.0,Left,Right side,7.0,1,1 dog and a few fish,3845,No,Bike
+First,7.0,20.0,Left,Stomach,9.0,3,none,0814,No,Bike
+Second,8.0,40.0,Right,Right side,8.0,2,"dog, dog",4867,No,Bike
+First,5.0,20.0,Right,Right side,7.0,3,0,8888,No,walk
+First,4.0,10.0,Right,Back,7.0,3,0,4451,No,Bike
+First,4.0,10.0,Right,Back,7.0,3,0,4451,No,Bike
+First,8.0,30.0,Right,Left side,5.0,0,4 cats,1739,No,Bike
+Third,4.0,40.0,Right,Left side,6.0,1,1,7896,No,longboard/walk
+First,1.0,10.0,Right,Right side,6.0,1,cats,2345,No,Bike
+First,3.0,10.0,Right,Right side,6.0,1,cats,9385,No,Bike
+First,8.0,45.0,Right,Right side,6.0,3,"3 dogs, and a snake",1156,No,Bike
+First,6.0,10.0,Right,Stomach,8.0,1,2 Dogs,6515,No,Bike
+Fourth,3.0,80.0,Right,Left side,8.0,0,"1 cat, 1 dog",0719,Yes,Car
+Second,5.0,6.0,Right,Right side,8.0,7,dog,5674,Yes,Bike
+Second,4.0,60.0,Right,Right side,7.0,1,weenie/poodle mix dog,1989,No,walk
+Third,8.0,5.0,Right,Left side,7.0,3,dog,2024,No,Car
+Second,5.0,6.0,Right,Right side,5674.0,7,dog,5672,Yes,Bike
+First,6.0,1000.0,Right,Left side,8.0,2,"3 cats, 2 dogs",1852,No,Bike
+First,6.0,100.0,Right,Back,7.0,1,Cat,2913,No,walk
+First,8.0,50.0,Right,Left side,8.0,2,"Dog, Cat, Fish, Tortoise",4902,Yes,Bike
+First,4.0,20.0,Left,Left side,8.0,0,1 dog ,8780,No,Bike
+First,10.0,30.0,Right,Right side,8.0,1,"Cat, cat, cat",2699,No,walk
+First,4.0,3.0,Right,Left side,9.0,2,1,5835,No,Bike
+First,6.0,40.0,Right,Back,8.0,0,0,8888,No,Bus
+First,8.0,10.0,Right,Back,8.0,3,1 dog,6492,No,Bike
+First,7.0,100.0,Right,Back,7.0,1,Cat,1290,No,walk
+First,10.0,30.0,Right,Right side,8.0,1,"Cat, cat, cat",2698,No,walk
+Second,4.0,60.0,Right,Right side,7.0,5,a german shepard mixed with a Dalmatian,7492,Yes,Bus
+Third,6.0,100.0,Right,Left side,7.0,2,"1, 2",1797,Yes,Bus
+First,4.0,10.0,Right,Back,9.0,1,no pets,3743,No,walk
+Second,9.0,30.0,Left,Left side,8.0,2,dog,7677,No,walk
+First,3.0,10.0,Right,Left side,8.0,1,"Dog, Chicken, Chicken",1037,No,Bike
+Fourth,5.0,15.0,Right,Left side,7.0,1,dogs,2756,No,Bike
+First,9.0,200.0,Right,Right side,8.0,1,0,1027,No,walk
+Second,7.0,35.0,Right,Left side,6.0,2,0,5730,No,Bus
+First,7.0,100.0,Right,Stomach,6.0,0,none,1687,No,Bus
+First,5.0,35.0,Right,Right side,8.0,1,"Cat, Dog",3848,No,Bike
+First,3.0,50.0,Left,Stomach,8.0,3,Dogs,8993,No,walk
+Second,3.0,50.0,Right,Back,6.0,1,one dog,7480,No,walk
+Fourth,9.0,25.0,Right,Left side,7.0,2,0,6743,No,walk
+Fourth,4.0,45.0,Right,Right side,8.0,1,3 dogs,4395,No,Bike
+First,3.0,162.0,Right,Right side,7.0,1,"Cat, puppy ",3946,No,walk
+Second,2.0,20.0,Right,Right side,7.0,1,0,4297,No,walk
+Second,8.0,40.0,Right,Right side,7.0,1,Dog,6541,No,walk
+First,5.0,75.0,Right,Right side,7.0,3,2 dogs ,5826,No,walk
+First,4.0,200.0,Left,Left side,8.0,1,3,4853,No,walk
+First,3.0,150.0,Left,Left side,8.0,1,3,0837,No,walk
+First,3.0,5.0,Right,Left side,8.0,0,"Cat, cat. ",5679,No,Bike
+First,3.0,10.0,Right,Left side,6.0,2,none,4327,No,walk
+Second,6.0,20.0,Right,Stomach,9.0,2,1,4444,No,Bike
+First,7.0,80.0,Right,Right side,7.0,2,none,5876,No,Bike
+Fourth,7.0,50.0,Right,Right side,7.5,1,dog,1212,Yes,Bike
+Fourth,7.0,50.0,Right,Right side,7.5,1,dog,1212,Yes,walk
+Second,4.0,15.0,Right,Stomach,7.0,4,"dog, cat",3985,No,walk
+Fourth,7.0,33.0,Right,Stomach,6.0,1,0,1569,No,Car
+Fourth,7.0,33.0,Right,Stomach,6.0,1,0,5900,No,Car
+First,6.0,40.0,Right,Left side,7.0,1,Dog - Chico,8937,No,walk
+First,6.0,40.0,Right,Left side,7.0,1,Dog - Chico,8937,No,walk
+Second,2.0,0.0,Right,Back,8.0,1,0,2489,No,walk
+Second,8.0,100.0,Right,Back,7.0,4,Dog,4791,No,walk
+First,4.0,5.0,Right,Left side,8.0,0,Two cats,5679,No,Bike
+First,7.0,25.0,Left,Left side,8.0,1,1 cat,2005,No,Bike
+First,7.0,200.0,Right,Left side,8.0,4,"2 cats, 2 dogs",3579,No,walk
+First,2.0,15.0,Right,Stomach,8.0,0,0,1217,No,Bus
+First,7.0,100.0,Right,Stomach,7.0,0,0,1687,No,Bus
+First,7.0,101.0,Right,Right side,9.0,1,"Dog, Dog, Dog, Bird",1746,Yes,walk
+First,7.0,110.0,Right,Right side,9.0,1,"Dog, Dog, Dog, Bird",1746,Yes,walk
+First,4.0,5.0,Right,Right side,6.0,3,"Dogs, Cats",7982,Yes,Bike
+First,6.0,50.0,Right,Left side,7.0,2,dog,9419,No,Bike
+First,8.0,250.0,Right,Back,6.0,5,Dog,6082,No,Bike
+First,8.0,250.0,Right,Back,6.0,5,Dog,6028,No,Bike
+Third,3.0,30.0,Right,Right side,8.0,1,"dog, cat",9746,No,Bike
+First,7.0,20.0,Right,Left side,7.0,1,one labradoodle!,7420,No,Bike
+First,7.0,200.0,Both,Right side,7.0,0,One dog,5789,No,walk
+Third,8.0,30.0,Right,Back,8.0,0,dog ,6392,No,Bike
+First,3.0,100.0,Right,Back,9.0,1,1,1738,No,Bike
+First,2.0,150.0,Right,Back,9.0,1,1,1738,No,Bike
+Second,3.0,200.0,Right,Right side,6.0,2,0,8658,No,walk
+Fourth,8.0,30.0,Right,Right side,7.0,1,Dog,2955,No,Bike
+Third,9.0,50.0,Right,Stomach,7.0,1,Cats,2222,No,Bike
+First,3.0,100.0,Right,Left side,7.0,1,0,7452,No,Bus
+First,5.0,80.0,Right,Left side,8.0,1,dog,7462,No,Bus
+First,3.0,100.0,Right,Left side,7.0,1,0,2740,No,Bus
+First,7.0,20.0,Right,Left side,8.0,2,Dog,7134,No,Car
+Second,10.0,100.0,Right,Right side,6.0,0,Leopard Geckos,1416,No,Bike
+Second,6.0,5.0,Right,Back,6.0,6,"Dog, dog, cat",1220,No,Car
+Fourth,1.0,30.0,Right,Left side,8.0,0,1,1024,Yes,Bike
+Fourth,1.0,30.0,Right,Right side,8.0,0,1,1024,Yes,Bike
+First,5.0,20.0,Right,Left side,8.0,2,1,3528,No,walk
+Second,2.0,100.0,Right,Left side,6.0,3,"cat, cat, cat",9580,No,Bike
+First,7.0,5.0,Left,Right side,7.0,1,0,2853,No,walk
+Fourth,8.0,0.0,Right,Right side,7.0,0,0,2333,No,Bus
+Second,7.0,50.0,Right,Stomach,6.0,4,"dog, dog",9653,No,walk
+First,2.0,2.0,Right,Right side,7.0,2,none,4613,No,walk
+First,4.0,50.0,Right,Back,8.0,3,A teddy bear dog,2076,No,Bus
+Third,3.0,20.0,Right,Stomach,9.0,2,cat,2401,No,Car
+Second,3.0,100.0,Right,Back,8.0,1,"a dog, a turtle",8888,No,Car
+First,7.0,20.0,Right,Left side,7.0,1,one labradoodle,7420,No,Bike
+First,2.0,20.0,Both,Back,9.0,1,2 Dogs,8239,No,walk
+Second,5.0,8.0,Right,Right side,9.0,3,dog,8877,No,walk
+Third,8.0,100.0,Right,Left side,8.0,1,none,3063,No,Bike
+Third,8.0,200.0,Right,Left side,10.0,1,No,8789,No,Bike
+First,8.0,20.0,Right,Right side,7.0,1,"2 dogs, 3 cats",8293,No,Bike
+First,8.0,20.0,Right,Left side,6.0,1,"2 dogs, 3 cats",7642,No,Bike
+Fourth,4.0,70.0,Right,Back,7.0,2,Dog,7654,No,walk
+First,4.0,80.0,Right,Left side,9.0,5,1,1356,No,Bike
+Fourth,4.0,50.0,Right,Back,7.0,2,Dog,7654,No,walk
+Third,8.0,40.0,Right,Stomach,6.0,2,none,1027,No,Car
+Fourth,8.0,3.0,Right,Right side,7.0,0,0,2333,No,Bus
+Fourth,8.0,0.0,Right,Right side,7.5,0,0,2341,No,Bus
+Second,7.0,5.0,Right,Right side,8.0,1,"I have three dogs, and two cats",6479,Yes,Bike
+First,3.0,12.0,Right,Right side,6.0,2,none,4328,No,walk
+First,3.0,15.0,Right,Back,7.0,1,1,1738,No,walk
+Second,2.0,20.0,Right,Back,9.0,1,dog,9583,No,walk
+Fourth,3.0,50.0,Right,Left side,8.0,0,"one cat, one dog",1719,Yes,Car
+First,7.0,40.0,Right,Right side,8.0,1,none,6209,No,walk
+Second,8.0,50.0,Right,Stomach,6.0,1,0,3927,No,walk
+First,9.0,50.0,Right,Left side,8.0,2,none,9213,No,walk
+First,5.0,40.0,Right,Right side,9.0,1,none,2830,No,Bike
+Fourth,6.0,200.0,Right,Left side,6.0,1,0,0310,No,Bike
+Third,7.0,29.0,Right,Right side,9.0,0,Dog,6851,No,Car
+Third,7.0,29.0,Right,Right side,9.0,0,Dog,6851,No,Car
+Fourth,3.0,20.0,Right,Back,9.0,0,1,7361,Yes,Bike
+Second,6.0,100.0,Right,Stomach,7.0,1,1 dog,6834,No,walk
+Fourth,1.0,50.0,Left,Stomach,8.0,2,"Dogs, Cats",1715,No,Car
+First,4.0,80.0,Right,Left side,9.0,5,1,1356,No,walk
+Third,8.0,30.0,Right,Back,8.0,0,Dog,1203,No,Bike
+Third,8.0,50.0,Right,Stomach,7.0,1,cats,2002,No,Bike
+First,6.0,3.0,Right,Right side,8.0,0,dog,4927,No,Bike
+Fourth,7.0,10.0,Right,Left side,8.0,1,Dog,6864,No,Car
+Fourth,1.0,5.0,Right,Right side,7.0,1,"dog, leopard gecko",8947,No,walk
+Fourth,2.0,40.0,Right,Right side,7.0,2,Dog,7289,No,Bike
+Fourth+,7.0,40.0,Right,Back,7.5,2,no,7980,No,Car
+First,6.0,30.0,Right,Left side,7.0,1,none,9506,No,walk
+First,6.0,30.0,Right,Left side,7.0,1,none,1304,No,walk
+First,8.0,15.0,Right,Stomach,7.0,1,dog,4782,Yes,walk
+Third,1.0,20.0,Right,Back,6.5,1,two cats,5678,No,Bus
+Third,6.0,50.0,Left,Right side,7.0,5,A dog,0695,No,walk
+First,3.0,30.0,Right,Left side,7.0,1,"cat, dog",7856,No,walk
+First,3.0,30.0,Right,Left side,7.0,1,"cat, dog",7856,No,walk
+First,9.0,30.0,Right,Right side,8.0,1,3,8563,No,walk
+Fourth,4.0,100.0,Right,Back,8.0,3,1,8913,No,Car
+Third,5.0,50.0,Right,Back,8.0,3,Dog,1234,No,Bike
+First,8.0,15.0,Right,Right side,6.0,0,No pets,4800,No,Bike
+First,8.0,15.0,Right,Right side,6.0,0,No pets,4800,No,Bike
+Fourth,8.0,20.0,Right,Back,8.0,1,Dog,0634,No,Car
+Fourth,4.0,200.0,Right,Back,8.0,3,0,1983,No,Car
+Fourth,6.0,20.0,Right,Back,8.0,1,cat,5789,No,Bike
+First,5.0,50.0,Right,Stomach,7.0,1,cat,7373,No,Bike
+First,4.0,50.0,Right,Stomach,7.0,1,cat,7373,No,Bike
+Third,5.0,100.0,Right,Right side,8.0,3,One dog ,2121,No,Bike
+Third,5.0,100.0,Right,Right side,8.0,3,One dog,2121,No,Bike
+Third,4.0,10.0,Right,Back,7.0,2,cat,4729,No,walk
+Fourth,4.0,5.0,Right,Back,7.0,1,0,3568,No,Bus
+First,6.0,150.0,Right,Right side,7.0,3,"Paige, Parker, Brooklyn and Bronx",7280,No,Bike
+Fourth,5.0,20.0,Left,Stomach,6.0,2,Dog - Cat - Rabbit,2345,No,walk
+Fourth,6.0,20.0,Right,Stomach,6.0,2,Dog - cat - rabbit,2345,No,walk
+Fourth,5.0,50.0,Right,Right side,8.0,1,"Dog, Cat",4367,No,Bike
+Third,8.0,7.0,Right,Left side,5.0,1,Dog,0316,Yes,Car
+Fourth,7.0,100.0,Right,Stomach,7.0,2,dog,2356,No,Bike
+Third,7.0,400.0,Right,Right side,7.0,1,0,2580,No,Bike
+Fourth,1.0,40.0,Right,Left side,8.0,0,1,1024,Yes,Bike
+First,10.0,100.0,Both,Left side,8.0,0,0,1116,No,Bus
+First,4.0,30.0,Left,Left side,7.0,0,1 dog,4387,No,Bike
+Third,10.0,50.0,Right,Right side,5.0,2,Dog,1234,No,walk
+Third,7.0,100.0,Right,Right side,7.0,0,"Dog, cat",5970,Yes,Car
